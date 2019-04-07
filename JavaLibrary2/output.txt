@@ -1,0 +1,12 @@
+Total chartectar: 47
+Total word: 12
+Total unique word: 9
+ami 1
+asi 1
+tumi 1
+kita 1
+tumar 1
+bala 1
+khobor 2
+ni 2
+valo 2
